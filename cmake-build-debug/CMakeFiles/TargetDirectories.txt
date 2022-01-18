@@ -1,0 +1,3 @@
+C:/Users/Kuba/Documents/Infa/Studia/Programowanie/c++/OU_Github/cmake-build-debug/CMakeFiles/OU_Github.dir
+C:/Users/Kuba/Documents/Infa/Studia/Programowanie/c++/OU_Github/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kuba/Documents/Infa/Studia/Programowanie/c++/OU_Github/cmake-build-debug/CMakeFiles/rebuild_cache.dir
